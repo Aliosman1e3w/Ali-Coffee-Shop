@@ -52,6 +52,15 @@ a {
   top: 0%;
 }
 
+@media (max-width: 768px) {
+  .hero {
+      background: url(/images/coffeewallpaper1.png) no-repeat center center;
+      background-size: cover;
+
+      
+  }
+}
+
 .hero h1 {
   color: #b36935;
   font-size: 3rem;
